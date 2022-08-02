@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "92CBFA5B-835E-487A-BEB5-0AFDCD5FF569"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1C465FC-3F50-4417-A139-0C2B4FDE63A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlbumsListSample/Source/AlbumsListModule/Controller/AlbumsListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "AlbumsListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F1C465FC-3F50-4417-A139-0C2B4FDE63A7 - 431adf8d69310590"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlbumsListSample.AlbumsListViewController.activityIndicator.getter : Swift.Optional&lt;__C.UIActivityIndicatorView&gt;"
+                  moduleName = "AlbumsListSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nithin/Downloads/AlbumsListSample/AlbumsListSample/Source/AlbumsListModule/Controller/AlbumsListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "F1C465FC-3F50-4417-A139-0C2B4FDE63A7 - a8219e8587970064"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlbumsListSample.AlbumsListViewController.activityIndicator.setter : Swift.Optional&lt;__C.UIActivityIndicatorView&gt;"
+                  moduleName = "AlbumsListSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nithin/Downloads/AlbumsListSample/AlbumsListSample/Source/AlbumsListModule/Controller/AlbumsListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "F1C465FC-3F50-4417-A139-0C2B4FDE63A7 - 7a158c8ba55788c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlbumsListSample.AlbumsListViewController.activityIndicator.modify : Swift.Optional&lt;__C.UIActivityIndicatorView&gt;"
+                  moduleName = "AlbumsListSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nithin/Downloads/AlbumsListSample/AlbumsListSample/Source/AlbumsListModule/Controller/AlbumsListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "F1C465FC-3F50-4417-A139-0C2B4FDE63A7 - e08b4eba4d80eacd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlbumsListSample.AlbumsListViewController.activityIndicator.modify : Swift.Optional&lt;__C.UIActivityIndicatorView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AlbumsListSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nithin/Downloads/AlbumsListSample/AlbumsListSample/Source/AlbumsListModule/Controller/AlbumsListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "F1C465FC-3F50-4417-A139-0C2B4FDE63A7 - 81dd35e962633948"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlbumsListSample.AlbumsListViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AlbumsListSample.AlbumsListViewController"
+                  moduleName = "AlbumsListSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nithin/Downloads/AlbumsListSample/AlbumsListSample/Source/AlbumsListModule/Controller/AlbumsListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "237">
+               </Location>
+               <Location
+                  uuid = "F1C465FC-3F50-4417-A139-0C2B4FDE63A7 - 66aa4370e23bc385"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlbumsListSample.AlbumsListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AlbumsListSample.AlbumsListViewController&gt;"
+                  moduleName = "AlbumsListSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nithin/Downloads/AlbumsListSample/AlbumsListSample/Source/AlbumsListModule/Controller/AlbumsListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "194">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
